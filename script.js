@@ -2,7 +2,6 @@ const WHATS_NUMBER = "55SEUNUMEROAQUI"; // Ex.: "5511999999999" (DDD + número, 
 const HIGHLIGHT_WHATS_NUMBERS = [
   "5562985113556",
   "5562984824653",
-  "556235428406",
   "5562985585994",
 ];
 const WHATS_DEFAULT = "Olá! Vim pelo site da Oxcartt e quero ajuda para escolher uma peça.";
